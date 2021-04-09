@@ -1,0 +1,23 @@
+{
+  "name": "mazesolver",
+  "version": "1.0.0",
+  "description": "Maze solving function using BFS alrorithm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Azgaar/mazesolver.git"
+  },
+  "keywords": [
+    "maze",
+    "BFS"
+  ],
+  "author": "Azgaar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Azgaar/mazesolver/issues"
+  },
+  "homepage": "https://github.com/Azgaar/mazesolver#readme"
+}
